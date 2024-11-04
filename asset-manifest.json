@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-ultimate-sonic/static/css/main.799e85e5.css",
+    "main.js": "/react-ultimate-sonic/static/js/main.d9bb7419.js",
+    "static/js/453.97143703.chunk.js": "/react-ultimate-sonic/static/js/453.97143703.chunk.js",
+    "index.html": "/react-ultimate-sonic/index.html",
+    "main.799e85e5.css.map": "/react-ultimate-sonic/static/css/main.799e85e5.css.map",
+    "main.d9bb7419.js.map": "/react-ultimate-sonic/static/js/main.d9bb7419.js.map",
+    "453.97143703.chunk.js.map": "/react-ultimate-sonic/static/js/453.97143703.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.799e85e5.css",
+    "static/js/main.d9bb7419.js"
+  ]
+}
